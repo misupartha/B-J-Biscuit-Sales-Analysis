@@ -32,7 +32,7 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/cb94fa39-67ae-43e9-a78c-fa8f46edb409)
 
 ## Project Insights
-- Male customers are more likely to buy products compared to females and others (~85%).
+- **Male** customers are more likely to buy products compared to females and others (~85%).
 - The cities of San Antonio, San Jose, and Philadelphia are the top 3 highest revenue-generating locations.
 - The adult age group (30–74 yrs) is the max contributing (~71%) and buys the most products.
 - Expensive price category products dominate the majority of revenue contribution (~90%).
