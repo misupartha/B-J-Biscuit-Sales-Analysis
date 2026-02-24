@@ -61,6 +61,6 @@ To improve the sales of B&J Biscuit, a strategic marketing plan focused on **mal
 
 ## License
 
-This project is open-source and available under the MIT License(LICENSE).
+This project is open-source and available under the <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis-MSExcel/blob/main/LICENSE"> MIT License </a>.
 
 ---
