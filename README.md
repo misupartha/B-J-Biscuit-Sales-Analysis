@@ -8,6 +8,8 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 ## Dataset Used 
 - <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/B%26J%20Biscuit%20Dataset.xlsx"> B&J Biscuit Data </a>
 
+---
+
 ## Questions (KPIs)
 - What is the total revenue and how is it distributed across product price categories?
 - Which payment method contributes the most to revenue?
@@ -24,14 +26,20 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 - Who are the top 5 customers by revenue contribution?
 - Dashboard Interaction <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/Dashboard%20Screenshot.jpg"> View Dashboard </a>
 
+---
+
 ## Process
 - Checked the dataset for missing values, duplicates, and inconsistencies and resolved them accordingly.
 - Cleaned and standardized the data to make sure everything was consistent in terms of data types, formats, and values.
 - Created pivot tables to answer each business question.
 - Merge all pivot tables into a single interactive dashboard and apply slicers for dynamic filtering.
 
+---
+
 ## Dashboard
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/cb94fa39-67ae-43e9-a78c-fa8f46edb409)
+
+---
 
 ## Project Insights
 - **Male customers** are more likely to buy products compared to females and others **(~85%)**.
@@ -44,8 +52,10 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 - **Travis Doyle** is the **top-performing salesperson** driving the highest sales.
 - **Shortbread** is the **highest selling product** across **all locations** and **age groups**.
 
- ## Conclusion & Recommendations
+---
+
+## Conclusion & Recommendations
 To improve the sales of B&J Biscuit, a strategic marketing plan focused on **male customers aged 30–74 years** in **San Antonio, San Jose, and Philadelphia** should be implemented. Since they represent the highest revenue-generating segment, targeted **digital marketing campaigns and personalized promotions** should be prioritized for this group. B&J Biscuit should also focus on expanding its **premium product line**, particularly Shortbread, as it reflects strong customer preference, while using **personalized promotions and targeted ads** to engage high-value customers like **Robert Hernandez** and drive repeat purchases. Lastly, the **cost optimization strategies** that make Chicago the most profitable location should be replicated across other locations, while ensuring a seamless payment experience across all methods to maintain customer satisfaction and drive higher spending.
 
-
+---
 
