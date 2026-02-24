@@ -57,3 +57,10 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 ## Conclusion & Recommendations
 To improve the sales of B&J Biscuit, a strategic marketing plan focused on **male customers aged 30–74 years** in **San Antonio, San Jose, and Philadelphia** should be implemented. Since they represent the highest revenue-generating segment, targeted **digital marketing campaigns and personalized promotions** should be prioritized for this group. B&J Biscuit should also focus on expanding its **premium product line**, particularly Shortbread, as it reflects strong customer preference, while using **personalized promotions and targeted ads** to engage high-value customers like **Robert Hernandez** and drive repeat purchases. Lastly, the **cost optimization strategies** that make Chicago the most profitable location should be replicated across other locations, while ensuring a seamless payment experience across all methods to maintain customer satisfaction and drive higher spending.
 
+---
+
+## License
+
+This project is open-source and available under the MIT License(LICENSE).
+
+---
